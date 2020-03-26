@@ -78,7 +78,7 @@
 
 /*为什么选择我们*/
 .whySelwe {
-    background: url("../image/whySelus.jpg");
+    background: url("http://www.quakoo.com/BJXstatic/image/whySelus.jpg");
     background-size: cover;
     font-size: 16px;
     color: #ffffff;
@@ -180,7 +180,7 @@
 
 /*核心优势*/
 .coreAdv {
-    background: url("../image/coreAdv.jpg");
+    background: url("http://www.quakoo.com/BJXstatic/image/coreAdv.jpg");
     background-size: cover;
     color: #fff;
 }
@@ -465,7 +465,7 @@
 
 /*合作流程*/
 .cooperation-process {
-    background: url("../image/processbg.jpg") center center;
+    background: url("http://www.quakoo.com/BJXstatic/image/processbg.jpg") center center;
     background-size: cover;
 }
 
@@ -527,84 +527,84 @@ li:hover .pro-item:after {
 .pro-1 {
     width: 118px;
     height: 95px;
-    background-image: url('../image/group2/pro-1.png');
+    background-image: url('http://www.quakoo.com/BJXstatic/image/group2/pro-1.png');
     background-size: cover;
 }
 
 .pro-2 {
     width: 63px;
     height: 108px;
-    background-image: url('../image/group2/pro-2.png');
+    background-image: url('http://www.quakoo.com/BJXstatic/image/group2/pro-2.png');
     background-size: cover;
 }
 
 .pro-3 {
     width: 99px;
     height: 99px;
-    background-image: url('../image/group2/pro-3.png');
+    background-image: url('http://www.quakoo.com/BJXstatic/image/group2/pro-3.png');
     background-size: cover;
 }
 
 .pro-4 {
     width: 98px;
     height: 88px;
-    background-image: url('../image/group2/pro-4.png');
+    background-image: url('http://www.quakoo.com/BJXstatic/image/group2/pro-4.png');
     background-size: cover;
 }
 
 .pro-5 {
     width: 95px;
     height: 81px;
-    background-image: url('../image/group2/pro-5.png');
+    background-image: url('http://www.quakoo.com/BJXstatic/image/group2/pro-5.png');
     background-size: cover;
 }
 
 .pro-6 {
     width: 104px;
     height: 104px;
-    background-image: url('../image/group2/pro-6.png');
+    background-image: url('http://www.quakoo.com/BJXstatic/image/group2/pro-6.png');
     background-size: cover;
 }
 
 li:hover .pro-1 {
     width: 118px;
     height: 103px;
-    background-image: url('../image/group1/pro-1.png');
+    background-image: url('http://www.quakoo.com/BJXstatic/image/group1/pro-1.png');
     background-size: cover;
 }
 
 li:hover .pro-2 {
     width: 63px;
     height: 108px;
-    background-image: url('../image/group1/pro-2.png');
+    background-image: url('http://www.quakoo.com/BJXstatic/image/group1/pro-2.png');
     background-size: cover;
 }
 
 li:hover .pro-3 {
     width: 99px;
     height: 99px;
-    background-image: url('../image/group1/pro-3.png');
+    background-image: url('http://www.quakoo.com/BJXstatic/image/group1/pro-3.png');
     background-size: cover;
 }
 
 li:hover .pro-4 {
     width: 98px;
     height: 88px;
-    background-image: url('../image/group1/pro-4.png');
+    background-image: url('http://www.quakoo.com/BJXstatic/image/group1/pro-4.png');
     background-size: cover;
 }
 
 li:hover .pro-5 {
     width: 95px;
     height: 81px;
-    background-image: url('../image/group1/pro-5.png');
+    background-image: url('http://www.quakoo.com/BJXstatic/image/group1/pro-5.png');
     background-size: cover;
 }
 
 li:hover .pro-6 {
     width: 104px;
     height: 104px;
-    background-image: url('../image/group1/pro-6.png');
+    background-image: url('http://www.quakoo.com/BJXstatic/image/group1/pro-6.png');
     background-size: cover;
 }
 

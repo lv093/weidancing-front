@@ -259,7 +259,7 @@ html, body {
     transition: all .3s;
     width: 30px;
     height: 25px;
-    background: url("../icon/menu.png");
+    background: url("http://www.quakoo.com/BJXstatic/icon/menu.png");
     background-size: 100% 100%;
 }
 
@@ -350,7 +350,7 @@ html, body {
     display: inline-block;
     width: 25px;
     height: 25px;
-    background: url("../icon/close.png");
+    background: url("http://www.quakoo.com/BJXstatic/icon/close.png");
     background-size: cover;
     cursor: pointer;
     -webkit-transition: -webkit-transform .5s;
@@ -445,7 +445,7 @@ html, body {
 .erweima {
     width: 95px;
     height: 95px;
-    background: url("../image/erweima.png");
+    background: url("http://www.quakoo.com/BJXstatic/image/erweima.png");
     background-size: cover;
 }
 
@@ -457,15 +457,15 @@ html, body {
     border-radius: 50%;
 }
 .qq {
-    background: url("../icon/foot-qq.png");
+    background: url("http://www.quakoo.com/BJXstatic/icon/foot-qq.png");
     background-size: cover;
 }
 .wechat {
-    background: url("../icon/foot-wechat.png");
+    background: url("http://www.quakoo.com/BJXstatic/icon/foot-wechat.png");
     background-size: cover;
 }
 .weibo {
-    background: url("../icon/foot-weibo.png");
+    background: url("http://www.quakoo.com/BJXstatic/icon/foot-weibo.png");
     background-size: cover;
 }
 .other-platform i + i {
@@ -616,7 +616,7 @@ html, body {
 .showHIde {
     width: 18px;
     height: 20px;
-    background: url("../icon/showHIde.png");
+    background: url("http://www.quakoo.com/BJXstatic/icon/showHIde.png");
     background-size: 100% 100%;
 }
 
@@ -650,11 +650,11 @@ html, body {
     margin-right: 7px;
 }
 .tipTel {
-    background: url("../icon/tel.png");
+    background: url("http://www.quakoo.com/BJXstatic/icon/tel.png");
     background-size: cover;
 }
 .tipQQ {
-    background: url("../icon/tipqq.png");
+    background: url("http://www.quakoo.com/BJXstatic/icon/tipqq.png");
     background-size: cover;
 }
 .chatUl li {
@@ -673,13 +673,13 @@ html, body {
     display: inline-block;
     width: 70px;
     height: 20px;
-    background: url("../image/button-custom-qq.gif");
+    background: url("http://www.quakoo.com/BJXstatic/image/button-custom-qq.gif");
     background-size: cover;
 }
 /*左侧tip over*/
 /*联系我们*/
 .contactWe {
-    background: url(../image/contactWe.jpg) center center;
+    background: url("http://www.quakoo.com/BJXstatic/image/contactWe.jpg") center center;
     background-size: cover;
 }
 
@@ -730,17 +730,17 @@ html, body {
 }
 
 .addr-icon {
-    background: url("../icon/addr.png");
+    background: url("http://www.quakoo.com/BJXstatic/icon/addr.png");
     background-size: cover;
 }
 
 .phone-icon {
-    background: url("../icon/phone.png");
+    background: url("http://www.quakoo.com/BJXstatic/icon/phone.png");
     background-size: cover;
 }
 
 .mail-icon {
-    background: url("../icon/mail.png");
+    background: url("http://www.quakoo.com/BJXstatic/icon/mail.png");
     background-size: cover;
 }
 
@@ -914,7 +914,7 @@ html, body {
 .position-icon {
     width: 23px;
     height: 26px;
-    background: url("../icon/position.png");
+    background: url("http://www.quakoo.com/BJXstatic/icon/position.png");
     background-size: cover;
 }
 
