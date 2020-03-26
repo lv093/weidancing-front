@@ -102,20 +102,20 @@ a {
 
 .flex-center-col {
     -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
 }
 
 .flex-row-justify {
     -webkit-box-pack: justify;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
 }
 
 .flex-row-center {
     -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
 }
 
 /*头部导航样式*/
@@ -192,7 +192,7 @@ html, body {
     bottom: -9px;
     left: 50%;
     -webkit-transform: translate(-50%, 10%);
-    transform: translate(-50%, 10%);
+            transform: translate(-50%, 10%);
     background: transparent;
     width: 0;
     height: 0;
@@ -205,7 +205,7 @@ html, body {
     width: 40px;
     height: 2px;
     -webkit-transform: translate(-50%, 0);
-    transform: translate(-50%, 0);
+            transform: translate(-50%, 0);
     -webkit-transition: all .3s;
     transition: all .3s;
 
@@ -328,7 +328,7 @@ html, body {
 
 .sideMenu li:hover a {
     -webkit-transform: translateX(5%);
-    transform: translateX(5%);
+            transform: translateX(5%);
     color: #4A6FE1;
 
 }
@@ -361,7 +361,7 @@ html, body {
 
 .closeSide .colse-icon:hover {
     -webkit-transform: scale(1.2);
-    transform: scale(1.2);
+            transform: scale(1.2);
 }
 
 /*头部导航样式 over*/
@@ -484,44 +484,44 @@ html, body {
     .foot-bottom {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-        flex-direction: column;
+            -ms-flex-direction: column;
+                flex-direction: column;
         -webkit-box-align: center;
-        -ms-flex-align: center;
-        align-items: center;
+            -ms-flex-align: center;
+                align-items: center;
     }
 
     .foot-left {
         -webkit-box-ordinal-group: 3;
-        -ms-flex-order: 2;
-        order: 2;
+            -ms-flex-order: 2;
+                order: 2;
     }
 
     .foot-right {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-        flex-direction: column;
+            -ms-flex-direction: column;
+                flex-direction: column;
         -webkit-box-align: center;
-        -ms-flex-align: center;
-        align-items: center;
+            -ms-flex-align: center;
+                align-items: center;
         -webkit-box-ordinal-group: 2;
-        -ms-flex-order: 1;
-        order: 1;
+            -ms-flex-order: 1;
+                order: 1;
     }
 
     .contactWay {
         margin: 10px 0;
         -webkit-box-ordinal-group: 3;
-        -ms-flex-order: 2;
-        order: 2;
+            -ms-flex-order: 2;
+                order: 2;
         text-align: center;
     }
 
     .other-platform {
         -webkit-box-ordinal-group: 2;
-        -ms-flex-order: 1;
-        order: 1;
+            -ms-flex-order: 1;
+                order: 1;
     }
 
     .friend-link, .f-link-list li a, .copyright {
@@ -534,10 +534,10 @@ html, body {
         display: -ms-flexbox;
         display: flex;
         -webkit-box-pack: center;
-        -ms-flex-pack: center;
-        justify-content: center;
+            -ms-flex-pack: center;
+                justify-content: center;
         -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+            flex-wrap: wrap;
     }
 
     .f-link-list li {
@@ -592,21 +592,21 @@ html, body {
     left: -50px;
     top: 50%;
     -webkit-transform: translateY(-50%);
-    transform: translateY(-50%);
+            transform: translateY(-50%);
     background: #333333;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
     -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
     border:1px solid #666;
     border-right-color: #333333;
     border-top-left-radius: 8px;
@@ -626,17 +626,17 @@ html, body {
     color: #ffffff;
     letter-spacing: 8px;
     -webkit-writing-mode: vertical-lr;
-    -ms-writing-mode: tb-lr;
-    writing-mode: vertical-lr; /*从左向右 从右向左是 writing-mode: vertical-rl;*/
+        -ms-writing-mode: tb-lr;
+            writing-mode: vertical-lr; /*从左向右 从右向左是 writing-mode: vertical-rl;*/
     -webkit-writing-mode: tb-lr;
-    -ms-writing-mode: tb-lr;
-    writing-mode: tb-lr; /*IE浏览器的从左向右 从右向左是 writing-mode: tb-rl；*/
+        -ms-writing-mode: tb-lr;
+            writing-mode: tb-lr; /*IE浏览器的从左向右 从右向左是 writing-mode: tb-rl；*/
 }
 .tipItem {
 
     padding-bottom: 30px;
     border-bottom: 1px solid #666;
-}
+ }
 .fixedRight>div + div {
     margin-top: 30px;
 }
@@ -662,8 +662,8 @@ html, body {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
     margin-bottom: 5px;
     font-size:12px;
     color:#ffffff;
@@ -690,7 +690,7 @@ html, body {
 .contact-left {
     color: #fff;
     -ms-flex-negative: 0;
-    flex-shrink: 0;
+        flex-shrink: 0;
 }
 
 .company-en {
@@ -751,8 +751,8 @@ html, body {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
 }
 
 .contact-right {
@@ -819,18 +819,18 @@ html, body {
     .contact-main {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-        flex-direction: column;
+            -ms-flex-direction: column;
+                flex-direction: column;
         -webkit-box-align: center;
-        -ms-flex-align: center;
-        align-items: center;
+            -ms-flex-align: center;
+                align-items: center;
     }
     .btn-default {
         display: block;
     }
     .contact-left {
         -ms-flex-negative: 1;
-        flex-shrink: 1;
+            flex-shrink: 1;
     }
 
     .contact-right {
@@ -848,7 +848,7 @@ html, body {
     .company-en:after {
         left: 50%;
         -webkit-transform: translateX(-50%);
-        transform: translateX(-50%);
+                transform: translateX(-50%);
     }
 
     .company-info {
@@ -866,14 +866,14 @@ html, body {
         height: auto;
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-        flex-direction: column;
+            -ms-flex-direction: column;
+                flex-direction: column;
         -webkit-box-align: center;
-        -ms-flex-align: center;
-        align-items: center;
+            -ms-flex-align: center;
+                align-items: center;
         -webkit-box-pack: center;
-        -ms-flex-pack: center;
-        justify-content: center;
+            -ms-flex-pack: center;
+                justify-content: center;
     }
 }
 
@@ -933,7 +933,7 @@ html, body {
     right: 0;
     top: 50%;
     -webkit-transform: translateY(-50%);
-    transform: translateY(-50%);
+            transform: translateY(-50%);
 }
 
 .curWeb {
@@ -957,8 +957,8 @@ html, body {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: end;
-    -ms-flex-pack: end;
-    justify-content: flex-end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
     float-wrap: wrap;
 }
 
